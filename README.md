@@ -2,5 +2,5 @@
 # Nom des participants
 JEAN MARCEL FERREIRA <br>
 PAPE GORA NDIAYE <br>
-ABIBATOU NDIAYE
+ABIBATOU NDIAYE <br>
 Elhadji Mbargou Gningue
